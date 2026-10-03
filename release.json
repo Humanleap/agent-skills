@@ -2,13 +2,13 @@
   {
     "name": "toolrouter",
     "repo": "toolrouter-agent-plugin",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "homepage": "https://toolrouter.com",
     "endpoint": "https://api.toolrouter.com/mcp",
     "description": "Discover and run ToolRouter tools through one MCP connection for web search, scraping, SEO research, image and video generation, audio, company and economic data, and supported connected-account actions including X and LinkedIn posting. Use when ToolRouter is connected or the user chooses it for an external task.",
     "created": false,
     "previousSha": "0df7fa6b68e64d402c25e3a3009d161900e7ffd0",
-    "sha": "96753873e50b36a1eeecb47c5d01d1a6a0cd29ea",
+    "sha": "a1c63fd5d19a80a9873e77aac0afbdd581b7dc16",
     "url": "https://github.com/Humanleap/toolrouter-agent-plugin",
     "files": 19,
     "contact": "blake@humanleap.com",
@@ -19,18 +19,19 @@
       "claude-code",
       "cursor-plugin",
       "gemini-cli-extension"
-    ]
+    ],
+    "iconSource": "original product PNG, unmodified"
   },
   {
     "name": "sentrydock",
     "repo": "sentrydock-agent-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homepage": "https://www.sentrydock.com/agents",
     "endpoint": "https://www.sentrydock.com/mcp",
     "description": "Search source-linked SentryDock news, prepare briefings, and monitor companies, commodities, policy, geopolitical events and public sources through MCP, CLI or HTTP. Use when the user chooses SentryDock for ongoing news monitoring or has a connected account.",
     "created": true,
     "previousSha": "7c4e724588bdbf8e1ab23d41611cd5a5b00ce621",
-    "sha": "52db8ca6ff8a77b195c582f8492051353334f3b4",
+    "sha": "039ca87ea98fed0a7b45ed113cdc22e95426b456",
     "url": "https://github.com/Humanleap/sentrydock-agent-plugin",
     "files": 17,
     "contact": "blake@humanleap.com",
@@ -41,18 +42,19 @@
       "claude-code",
       "cursor-plugin",
       "gemini-cli-extension"
-    ]
+    ],
+    "iconSource": "original product PNG, unmodified"
   },
   {
     "name": "tradehand",
     "repo": "tradehand-agent-plugin",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "homepage": "https://tradehand.com",
     "endpoint": "https://tradehand.com/api/mcp/chatgpt",
     "description": "Find local UK tradespeople, inspect services and reviews, and use Tradehand's signed-in customer tools to prepare fixed-price bookings, request quotes and hand off Stripe payment links. Use when the user chooses Tradehand to find or book help for a local job.",
     "created": false,
     "previousSha": "2677f0c1b54748cd2fc72c5713873af93d9b3ed6",
-    "sha": "b16836f8183614549e27a05dfbc7b4280a967f86",
+    "sha": "061cd4751607f7a22cea21947b49ccf588ee9bde",
     "url": "https://github.com/Humanleap/tradehand-agent-plugin",
     "files": 17,
     "contact": "blake@humanleap.com",
@@ -63,18 +65,19 @@
       "claude-code",
       "cursor-plugin",
       "gemini-cli-extension"
-    ]
+    ],
+    "iconSource": "original product PNG, unmodified"
   },
   {
     "name": "magicscreenshots",
     "repo": "magicscreenshots-agent-plugin",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "homepage": "https://www.magicscreenshots.com/agents",
     "endpoint": "https://www.magicscreenshots.com/api/mcp",
     "description": "Search real App Store listing screenshots and preview videos for design inspiration, then generate, restyle or localize the user's own App Store screenshots with MagicScreenshots. Use for App Store screenshot design, listing research, localization and app preview references.",
     "created": true,
     "previousSha": "3d7a752840af7c3435b244cc21a206ca6bfc4309",
-    "sha": "c11e322ee1cfc8879c1996b88f4728a4770c4295",
+    "sha": "f5cf61f84cdcb558467978372bf055ef81517be9",
     "url": "https://github.com/Humanleap/magicscreenshots-agent-plugin",
     "files": 17,
     "contact": "blake@humanleap.com",
@@ -85,18 +88,19 @@
       "claude-code",
       "cursor-plugin",
       "gemini-cli-extension"
-    ]
+    ],
+    "iconSource": "original product PNG, unmodified"
   },
   {
     "name": "bot-store-marketplace",
     "repo": "bot-store-agent-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homepage": "https://bot.store",
     "endpoint": "https://bot.store/mcp",
     "description": "Find and open Grok Bot templates from bot.store, compare actual marketplace listings and prepare a user-chosen bot's checkout handoff. Use when the user names bot.store, chooses its marketplace or shares a bot.store URL.",
     "created": true,
     "previousSha": "96e27e1d72d52b3e8eaac75af109e1c42f19b3ad",
-    "sha": "92467c65ddccd6511ed514e00b05ef49e29f18d4",
+    "sha": "311fb823f9a984136508d96a3478c5c08810a25f",
     "url": "https://github.com/Humanleap/bot-store-agent-plugin",
     "files": 17,
     "contact": "blake@humanleap.com",
@@ -107,6 +111,7 @@
       "claude-code",
       "cursor-plugin",
       "gemini-cli-extension"
-    ]
+    ],
+    "iconSource": "original product PNG, unmodified"
   }
 ]
