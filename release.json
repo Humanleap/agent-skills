@@ -31,7 +31,7 @@
     "description": "Search source-linked SentryDock news, prepare briefings, and monitor companies, commodities, policy, geopolitical events and public sources through MCP, CLI or HTTP. Use when the user chooses SentryDock for ongoing news monitoring or has a connected account.",
     "created": true,
     "previousSha": "7c4e724588bdbf8e1ab23d41611cd5a5b00ce621",
-    "sha": "039ca87ea98fed0a7b45ed113cdc22e95426b456",
+    "sha": "39a9e6ce493701cfad62e20f3be5ba4495680052",
     "url": "https://github.com/Humanleap/sentrydock-agent-plugin",
     "files": 17,
     "contact": "blake@humanleap.com",
