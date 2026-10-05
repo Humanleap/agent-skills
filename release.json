@@ -2,15 +2,15 @@
   {
     "name": "toolrouter",
     "repo": "toolrouter-agent-plugin",
-    "version": "0.2.1",
+    "version": "0.3.0",
     "homepage": "https://toolrouter.com",
     "endpoint": "https://api.toolrouter.com/mcp",
     "description": "Discover and run ToolRouter tools through one MCP connection for web search, scraping, SEO research, image and video generation, audio, company and economic data, and supported connected-account actions including X and LinkedIn posting. Use when ToolRouter is connected or the user chooses it for an external task.",
     "created": false,
-    "previousSha": "0df7fa6b68e64d402c25e3a3009d161900e7ffd0",
-    "sha": "a1c63fd5d19a80a9873e77aac0afbdd581b7dc16",
+    "previousSha": "a1c63fd5d19a80a9873e77aac0afbdd581b7dc16",
+    "sha": "e5edac7f0def25fb9db314bf6ba66bc277d18f79",
     "url": "https://github.com/Humanleap/toolrouter-agent-plugin",
-    "files": 19,
+    "files": 24,
     "contact": "blake@humanleap.com",
     "topics": [
       "agent-skills",
@@ -20,7 +20,13 @@
       "cursor-plugin",
       "gemini-cli-extension"
     ],
-    "iconSource": "original product PNG, unmodified"
+    "iconSource": "original product PNG, unmodified",
+    "skills": [
+      "toolrouter",
+      "social-media-scraper",
+      "ad-library-scraper",
+      "ecommerce-scraper"
+    ]
   },
   {
     "name": "sentrydock",
